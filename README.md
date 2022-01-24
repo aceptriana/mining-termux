@@ -1,5 +1,5 @@
 # Mining Pake Termux
-High performance, open source, cross platform RandomX, KawPow, CryptoNight and AstroBWT CPU/GPU miner, RandomX benchmark and stratum proxy
+Powerd By XMRIG
 ## Instalasi Ubuntu
 ```
 -  pkg update && pkg upgrade
@@ -17,7 +17,7 @@ High performance, open source, cross platform RandomX, KawPow, CryptoNight and A
 -  mkdir xmrig/build && cd xmrig/build
 -  cmake ..
 -  make -j$(nproc)
--  wget https://gist.githubusercontent.com/dytra/5b17acdd38fcabba83e6411f38cce5ad/raw/9214159292a479ec5c27ac7ea28d0da00ca99d4f/config.json
+-  wget https://raw.githubusercontent.com/aceptriana/mining-termux/main/config.json
 -  nano config.json
 -  ./xmrig
 ```
@@ -30,4 +30,4 @@ unMineable
 ## Demo 
 [![Watch the video](https://img.youtube.com/vi/Yn69065wh14/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yn69065wh14)
 
-.com/)
+
