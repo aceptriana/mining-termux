@@ -1,12 +1,12 @@
 # Mining Pake Termux
-## Instalasi
+## Instalasi Ubuntu
 ```
 -  pkg update && pkg upgrade
 -  pkg install proot-distro
 -  proot-distro install ubuntu
 -  proot-distro login ubuntu
 ```
-
+## Login Ubuntu
 ```
 -  apt update 
 -  apt upgrade
@@ -20,7 +20,8 @@
 -  nano config.json
 -  ./xmrig
 ```
+## Ubah Config.json nya
 ![alt text](https://github.com/aceptriana/mining-termux/blob/main/acep.png)
 
 unMineable 
-[Pilih Koin Yang Mau Di Mining](https://unmineable.com/)
+[Pilih Koin Atau Token](https://unmineable.com/)
