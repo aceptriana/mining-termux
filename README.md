@@ -30,5 +30,4 @@ unMineable
 ## Demo 
 [![Watch the video](https://img.youtube.com/vi/Yn69065wh14/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yn69065wh14)
 
-unMineable 
-[Pilih Koin Atau Token](https://unmineable.com/)
+.com/)
