@@ -18,9 +18,9 @@
 -  make -j$(nproc)
 -  wget https://gist.githubusercontent.com/dytra/5b17acdd38fcabba83e6411f38cce5ad/raw/9214159292a479ec5c27ac7ea28d0da00ca99d4f/config.json
 -  nano config.json
-![alt text](https://github.com/aceptriana/mining-termux/blob/main/acep.png)
 -  ./xmrig
 ```
+![alt text](https://github.com/aceptriana/mining-termux/blob/main/acep.png)
 
-unMineable - Mine your favorite non-mineable crypto coin or token!
+unMineable 
 [Pilih Koin Yang Mau Di Mining](https://unmineable.com/)
