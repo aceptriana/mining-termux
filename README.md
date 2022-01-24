@@ -1,2 +1,8 @@
 # mining-termux
-High performance, open source, cross platform RandomX, KawPow, CryptoNight and AstroBWT CPU/GPU miner, RandomX benchmark and stratum proxy.
+Download Termux
+
+apt update -y
+apt upgrade -y
+pkg install proot-distro -y
+proot-distro install ubuntu
+proot-distro login ubuntu
