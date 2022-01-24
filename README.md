@@ -22,7 +22,10 @@ Powerd By XMRIG
 -  ./xmrig
 ```
 unMineable Mine your favorite non-mineable crypto assets!
-[Pilih Koin Atau Token](https://unmineable.com/coins)
+[Pilih Koin terus RandomX](https://unmineable.com/coins)
+
+Buat addres wallet
+[Daftar](https://faucetpay.io/account/register)
 
 ## Ubah Config.json nya
 ![alt text](https://github.com/aceptriana/mining-termux/blob/main/acep.png)
