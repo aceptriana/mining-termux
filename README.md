@@ -1,4 +1,5 @@
 # Mining Pake Termux
+High performance, open source, cross platform RandomX, KawPow, CryptoNight and AstroBWT CPU/GPU miner, RandomX benchmark and stratum proxy
 ## Instalasi Ubuntu
 ```
 -  pkg update && pkg upgrade
