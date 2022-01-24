@@ -23,7 +23,7 @@
 ## Ubah Config.json nya
 ![alt text](https://github.com/aceptriana/mining-termux/blob/main/acep.png)
 ## Demo 
-[![Watch the video](https://github.com/aceptriana/mining-termux/blob/main/VID_20220124162847.mp4)]
+[![Watch the video](https://img.youtube.com/vi/Yn69065wh14/maxresdefault.jpg)](https://www.youtube.com/Yn69065wh14)
 
 unMineable 
 [Pilih Koin Atau Token](https://unmineable.com/)
