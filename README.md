@@ -1,5 +1,5 @@
 # Mining Pake Termux
-![alt text](https://xmrig.com/assets/img/xmrig-logo.svg)
+Powerd By XMRIG
 ## Instalasi Ubuntu
 ```
 -  pkg update && pkg upgrade
