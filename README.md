@@ -21,8 +21,8 @@ Powerd By XMRIG
 -  nano config.json
 -  ./xmrig
 ```
-unMineable 
-[Pilih Koin Atau Token](https://unmineable.com/)
+unMineable Mine your favorite non-mineable crypto assets!
+[Pilih Koin Atau Token](https://unmineable.com/coins)
 
 ## Ubah Config.json nya
 ![alt text](https://github.com/aceptriana/mining-termux/blob/main/acep.png)
